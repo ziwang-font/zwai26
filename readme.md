@@ -33,7 +33,6 @@ D:\zwpy25\VSCode\data\user-data\User\settings.json
 【智王AI资源库】
 最新版本和更多资料，请参见: QQ群文件：655402626（三千人QQ大群）
 微信公众号:zwailab(智王AI)
-大家也可以请访问以下网站：
-:: zw网站：http://www.ziwang.com
+ 
 
   
